@@ -18,5 +18,3 @@ $person = new Person("Roziqin");
 $reference = $person->sayHello(...);
 
 var_dump($reference("Budi"));
-
-//$reference2 = str_contains(...);
